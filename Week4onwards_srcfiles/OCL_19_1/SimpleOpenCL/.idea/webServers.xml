@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ee4ae11c-982b-4e37-bd76-21a6a3ed7fe2" name="vitisws">
+        <fileTransfer accessType="SFTP" host="vitisws.lis.ei.tum.de" port="22" sshConfigId="abc6a49f-1e57-4019-a2a5-d662d98b17e5" sshConfig="saptarshi@vitisws.lis.ei.tum.de:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

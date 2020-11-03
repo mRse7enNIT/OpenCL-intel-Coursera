@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d275ad3-e53a-4112-8875-e0aefe49aa54" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1ja1600SMFqlVVGR3ekj5o30PgJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Week4onwards_srcfiles/OCL_19_1/SimpleOpenCL" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d275ad3-e53a-4112-8875-e0aefe49aa54" name="Default Changelist" comment="" />
+      <created>1604027213104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604027213104</updated>
+      <workItem from="1604027214644" duration="300000" />
+      <workItem from="1604027586153" duration="450000" />
+      <workItem from="1604060632685" duration="2892000" />
+      <workItem from="1604193491195" duration="28000" />
+      <workItem from="1604360315112" duration="107000" />
+      <workItem from="1604393741452" duration="11095000" />
+      <workItem from="1604427470345" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="344" y="435" width="832" height="704" key="#SSH_Configurations" timestamp="1604397328708">
+      <screen x="0" y="384" width="1366" height="768" />
+    </state>
+    <state x="344" y="435" width="832" height="704" key="#SSH_Configurations/1366.0.2048.1152/0.384.1366.768@0.384.1366.768" timestamp="1604397328708" />
+    <state x="171" y="425" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604413680281">
+      <screen x="0" y="384" width="1366" height="768" />
+    </state>
+    <state x="171" y="425" key="#com.intellij.execution.impl.EditConfigurationsDialog/1366.0.2048.1152/0.384.1366.768@0.384.1366.768" timestamp="1604413680281" />
+    <state x="496" y="525" width="424" height="484" key="FileChooserDialogImpl" timestamp="1604427488412">
+      <screen x="0" y="384" width="1366" height="768" />
+    </state>
+    <state x="496" y="525" width="424" height="484" key="FileChooserDialogImpl/1366.0.2048.1152/0.384.1366.768@0.384.1366.768" timestamp="1604427488412" />
+    <state x="254" y="422" key="SettingsEditor" timestamp="1604406681604">
+      <screen x="0" y="384" width="1366" height="768" />
+    </state>
+    <state x="254" y="422" key="SettingsEditor/1366.0.2048.1152/0.384.1366.768@0.384.1366.768" timestamp="1604406681604" />
+    <state x="1909" y="223" key="SettingsEditor/1366.0.2048.1152/0.384.1366.768@1366.0.2048.1152" timestamp="1604064646780" />
+  </component>
+</project>

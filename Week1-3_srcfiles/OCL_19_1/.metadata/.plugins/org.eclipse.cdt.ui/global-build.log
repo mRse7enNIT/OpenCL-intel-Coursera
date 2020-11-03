@@ -1,0 +1,59 @@
+21:15:26 **** Incremental Build of configuration Debug for project SimpleOpenCL ****
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -I/opt/intelFPGA_pro/19.1/hld/host/include -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.o" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building file: ../utility.cpp
+Invoking: GCC C++ Compiler
+g++ -I/opt/intelFPGA_pro/19.1/hld/host/include -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"utility.d" -MT"utility.o" -o "utility.o" "../utility.cpp"
+Finished building: ../utility.cpp
+ 
+Building target: SimpleOpenCL
+Invoking: GCC C++ Linker
+g++ -L/opt/intelFPGA_pro/19.1/hld/host/linux64/lib -Wl,--no-as-needed -o "SimpleOpenCL"  ./main.o ./utility.o   -lOpenCL
+Finished building target: SimpleOpenCL
+ 
+21:15:32 **** Incremental Build of configuration Debug for project SimpleOpenCL ****
+make all 
+make: Nothing to be done for `all'.
+22:05:38 **** Incremental Build of configuration Debug for project SimpleOpenCL ****
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -I/opt/intelFPGA_pro/19.1/hld/host/include -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.o" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: SimpleOpenCL
+Invoking: GCC C++ Linker
+g++ -L/opt/intelFPGA_pro/19.1/hld/host/linux64/lib -Wl,--no-as-needed -o "SimpleOpenCL"  ./main.o ./utility.o   -lOpenCL
+Finished building target: SimpleOpenCL
+ 
+22:10:57 **** Incremental Build of configuration Debug for project SimpleOpenCL ****
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -I/opt/intelFPGA_pro/19.1/hld/host/include -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.o" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: SimpleOpenCL
+Invoking: GCC C++ Linker
+g++ -L/opt/intelFPGA_pro/19.1/hld/host/linux64/lib -Wl,--no-as-needed -o "SimpleOpenCL"  ./main.o ./utility.o   -lOpenCL
+Finished building target: SimpleOpenCL
+ 
+22:25:15 **** Incremental Build of configuration Debug for project SimpleOpenCL ****
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -I/opt/intelFPGA_pro/19.1/hld/host/include -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.o" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: SimpleOpenCL
+Invoking: GCC C++ Linker
+g++ -L/opt/intelFPGA_pro/19.1/hld/host/linux64/lib -Wl,--no-as-needed -o "SimpleOpenCL"  ./main.o ./utility.o   -lOpenCL
+Finished building target: SimpleOpenCL
+ 
+22:25:34 **** Incremental Build of configuration Debug for project SimpleOpenCL ****
+make all 
+make: Nothing to be done for `all'.

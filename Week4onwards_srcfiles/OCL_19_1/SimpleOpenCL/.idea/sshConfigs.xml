@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="vitisws.lis.ei.tum.de" id="abc6a49f-1e57-4019-a2a5-d662d98b17e5" port="22" nameFormat="DESCRIPTIVE" username="saptarshi" />
+    </configs>
+  </component>
+</project>
